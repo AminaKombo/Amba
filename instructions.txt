@@ -1,0 +1,19 @@
+Installation:
+
+1. Set Up a Database:
+
+    - Open app/data/base.sql in a text editor
+    - Change database name (if you'd like)
+    - Import base.sql into your server (or copy/paste it into the GUI)
+
+2. Configure your Application:
+
+    - Open app/config/config.php in a text editor
+    - Change the constants to your preferred settings
+    - Open the URL you specified in the AMBALINK constant
+ 
+ 
+ Notes:
+ 
+ 1. Your system must be configured to allow outgoing emails
+ 
