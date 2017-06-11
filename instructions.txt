@@ -1,3 +1,5 @@
+Extract public.zip and vendor.zip
+
 Installation:
 
 1. Set Up a Database:
